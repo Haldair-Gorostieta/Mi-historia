@@ -1,0 +1,78 @@
+#body{
+	background-image:url(../imagen/imagen2.jpg);
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;}
+nav{
+	margin: 2% 15% 1% 15%;}
+.menu li{
+	list-style:none;
+	color:#ffffff;
+	display:inline;
+	background:#475556;
+	margin:2px 2px 2px 2px;
+	border-radius:15px;
+	padding:10px 10px 10px 10px;}
+#ima{
+	float:right;
+	width: 80px;
+	height: 80px;
+	margin: 0% 2%;
+	border-radius:100px}
+#imad{
+	float:right;
+	width: 22%;
+	height: 750px;}
+#imai{
+	float:left;
+	width: 22%;
+	height: 750px;}
+#encabezado{
+	color: white;
+	width: 80%
+	margin:15px 15px;
+	height:120px;
+	padding: 5px;
+	background-color:#323232;}
+/*margin: arriba,derecha,abajo,izquierda*/
+#sec1{
+	text-align:justify;
+	float:center;
+	width: 90%;
+	height: 100%;
+	margin: 5% 5% 5% 5%;
+	background-color:#7E9B9C;
+	padding: 10px 10px 10px 10px;
+ 	border-radius:15px;}
+#sec2{
+	float:center;
+	width: 75%;
+	height: 100%;
+	margin: 0% 5% 5% 2%;
+	background-color: #7E9B9C;
+	padding: 10px 10px 10px 10px;
+	text-align:justify;
+ 	border-radius: 15px;}
+#sec3{
+	float:center;
+	width: 70%;
+	height: 100%;
+	margin: 0% 2% 5% 2%;
+	background-color: #7E9B9C;
+	padding: 10px 10px 10px 10px;
+	text-align:justify;
+ 	border-radius: 15px;}
+#video{
+	margin: 1% 15% 5% 15%;}
+#pie{
+	float:center;
+	color:000;
+	text-align:center;
+	border-radius:0px;
+	width:100%;
+	margin:0px;
+	height:10%;
+	background-color:#AEB8B9;
+	padding:10px 15px 10px 15px;
+	clear:both;}
+	
